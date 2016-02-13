@@ -1,0 +1,11 @@
+2.2.2016 	 19:1:4 	 http://python.org/ 	 Content ok 	 Ping: 1289 ms
+2.2.2016 	 19:1:5 	 http://google.com/ 	 Content error 	 Ping: 253 ms
+2.2.2016 	 19:1:6 	 http://facebook.com/ 	 Content ok 	 Ping: 1288 ms
+2.2.2016 	 19:1:6 	 http://ampparit.com/ 	 Content error 	 Ping: 288 ms
+2.2.2016 	 19:1:7 	 http://www.foobar.com/login 	 Connection error 	 Ping: 0 ms
+2.2.2016 	 19:1:8 	 http://python.org/ 	 Content ok 	 Ping: 1280 ms
+2.2.2016 	 19:1:8 	 http://google.com/ 	 Content error 	 Ping: 269 ms
+2.2.2016 	 19:1:9 	 http://facebook.com/ 	 Content ok 	 Ping: 1287 ms
+2.2.2016 	 19:1:10 	 http://ampparit.com/ 	 Content error 	 Ping: 292 ms
+2.2.2016 	 19:1:10 	 http://www.foobar.com/login 	 Connection error 	 Ping: 0 ms
+2.2.2016 	 19:1:11 	 http://python.org/ 	 Connection error 	 Ping: 0 ms
